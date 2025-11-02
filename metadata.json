@@ -1,0 +1,5 @@
+{
+  "name": "App de Pedidos y Cotizaciones",
+  "description": "Una aplicación web para crear y generar órdenes de compra para tenis personalizados. Los usuarios pueden ingresar detalles del pedido, cantidades por talla y precios. La aplicación calcula automáticamente los totales y permite descargar la orden de compra final como un archivo JPG, visualmente idéntico a un formato estándar.",
+  "requestFramePermissions": []
+}
